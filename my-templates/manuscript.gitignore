@@ -1,0 +1,19 @@
+# eps-to-pdf converted files
+img/*.pdf
+
+# Temp UNIX files
+*~
+\#*\#
+
+# Dropbox files
+.dropbox
+*(busy)
+_who*
+
+
+# Temp files
+.texpadtmp/
+*.aux
+*.dvi
+*.ps
+*.log
